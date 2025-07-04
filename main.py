@@ -19,7 +19,7 @@ import json
 
 # ====================== CONFIGURAÇÕES INICIAIS ======================
 DB = "estoque.db"
-ADMIN_EMAIL = "admin.admin@bravantes.com.br"
+ADMIN_EMAIL = "admin.admin@aeon.com.br"
 UNIDADES = ['Peça', 'Unidade', 'Pacote', 'Caixa', 'Metro', 'Conjunto', 'Cento', 'Kilo', 'Rolo', 'Rolo com 30 Metros', 'Par']
 ESTOQUES = ['Estoque Garagem', 'Estoque Escritório']
 
